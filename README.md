@@ -60,4 +60,4 @@ Visualization as __Bubble-Chart__ or __Pie-Chart__
 * For real-time updates on hashtags tags, select:
 Metric Type as __Field-Value-Counters__
 Stream as __hashtags__
-Visualization as __Bubble-Chart__ or __Pie-Char__
+Visualization as __Bubble-Chart__ or __Pie-Chart__

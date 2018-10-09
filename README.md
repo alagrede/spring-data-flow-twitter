@@ -31,7 +31,7 @@ Apps -> Bulk import
 http://bit.ly/Bacon-RELEASE-stream-applications-kafka-10-maven
 
 
-# Exemple project (Twitter analytics)
+# Example project (Twitter analytics)
 https://github.com/spring-cloud/spring-cloud-dataflow-samples/tree/master/analytics/twitter-analytics
 
 ## Make twitter API keys and Token 
@@ -60,4 +60,4 @@ Visualization as __Bubble-Chart__ or __Pie-Chart__
 * For real-time updates on hashtags tags, select:
 Metric Type as __Field-Value-Counters__
 Stream as __hashtags__
-Visualization as __Bubble-Chart__ or __Pie-Char__
+Visualization as __Bubble-Chart__ or __Pie-Chart__

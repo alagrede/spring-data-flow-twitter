@@ -31,7 +31,7 @@ Apps -> Bulk import
 http://bit.ly/Bacon-RELEASE-stream-applications-kafka-10-maven
 
 
-# Exemple project (Twitter analytics)
+# Example project (Twitter analytics)
 https://github.com/spring-cloud/spring-cloud-dataflow-samples/tree/master/analytics/twitter-analytics
 
 ## Make twitter API keys and Token 
